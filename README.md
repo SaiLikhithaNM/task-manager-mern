@@ -15,4 +15,9 @@ A full-stack Task Manager application built using the **MERN Stack (MongoDB, Exp
 - Environment variable-based MongoDB URI
 - CORS enabled for cross-origin access from frontend
 
-## 📂 Folder Structure
+
+
+## 🔗 Live Demo
+
+Click here to try the app: [Task Manager Live](https://task-manager-mern-qf3z1i9ga-sai-likhithas-projects-d1d44d22.vercel.app)
+
